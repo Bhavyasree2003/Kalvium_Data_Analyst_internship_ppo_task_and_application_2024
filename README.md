@@ -8,18 +8,18 @@ I created this repository as part of my application for the Kalvium Data Analyst
 
 # Files in Repository:
 
-** Scrape_Lok_Sabha_election.ipynb: Jupyter notebook used for scraping election data from the Election Commission of India's website.
+1. Scrape_Lok_Sabha_election.ipynb: Jupyter notebook used for scraping election data from the Election Commission of India's website.
 
-** election_result.pbix: Power BI report file containing visualizations and insights derived from the scraped data.
+2. election_result.pbix: Power BI report file containing visualizations and insights derived from the scraped data.
 
-** Lok Sabha election.txt: 10 Insights
+2. Lok Sabha election.txt: 10 Insights
 
-* background.jpeg: Image file used for visual enhancement in the Power BI report.
+4. background.jpeg: Image file used for visual enhancement in the Power BI report.
 
  #  Tools Used:
 
-Python (BeautifulSoup): Used for web scraping and data extraction.
+1.Python (BeautifulSoup): Used for web scraping and data extraction.
 
-Power BI: Utilized for data visualization and report generation.
+2.Power BI: Utilized for data visualization and report generation.
 
- Notebook: Used as an interactive environment for data scraping and initial analysis
+ 3.Notebook: Used as an interactive environment for data scraping and initial analysis
