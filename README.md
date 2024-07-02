@@ -10,9 +10,7 @@ I created this repository as part of my application for the Kalvium Data Analyst
 
 2. election_result.pbix: Power BI report file containing visualizations and insights derived from the scraped data.
 
-2. Lok Sabha election.txt: 10 Insights
-
-4. background.jpeg: Image file used for visual enhancement in the Power BI report.
+3. background.jpeg: Image file used for visual enhancement in the Power BI report.
 
  #  Tools Used:
 
